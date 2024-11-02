@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nmwami
-- 👀 I’m interested in to partner in android projects
-- 🌱 I’m currently learning kotlin and figma
+- 👋 Greetings, I’m Mwami Nyungu Musembi.
+- I am heavily invested in android development more for mobile applications.
+-
 -
 - 📫 send an email to musembimwami@gmail.com
 
