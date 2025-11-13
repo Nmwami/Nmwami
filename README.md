@@ -1,10 +1,5 @@
-- 👋 Greetings, I’m Mwami Nyungu Musembi.
-- I am heavily invested in android development more for mobile applications.
+- Mambo, Its me , nice to meet you in this realm. My given name is Mwami Nyungu Musembi.
+- I am heavily invested in the programming world. Be it websites mobile apps i will be your companion. If can spare your special minutes you can always appreciate my works. homewifi.co.ke.
 -
 -
 - 📫 send an email to musembimwami@gmail.com
-
-<!---
-Nmwami/Nmwami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
